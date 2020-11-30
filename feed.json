@@ -1,0 +1,26 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "leonp has a microblog",
+	"icon": "https://micro.blog/leonp/avatar.jpg",
+	"home_page_url": "https://leonp.micro.blog/",
+	"feed_url": "https://leonp.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/after-about-months.html",
+				
+				"content_html": "<p>After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with:</p>\n\n<p><img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with: \n\n<img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-30T18:17:04+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/after-about-months.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/open-the-door.html",
+				"title": "Open the Door to the Political World of Narnia",
+				"content_html": "<p><a href=\"https://longreads.com/2020/11/30/open-the-door-to-the-political-world-of-narnia/\">Open the Door to the Political World of Narnia</a></p>\n\n<p>I remember some vague discomfort at these stories (which I loved) even as a partly formed, ten year old atheist at a C of E school. I don’t <em>think</em> it affected me in later life, but of course you don’t know how these things wheedle their way into a turn of phrase, grubby thought or whatever.</p>\n",
+				"content_text": "[Open the Door to the Political World of Narnia](https://longreads.com/2020/11/30/open-the-door-to-the-political-world-of-narnia/)\n\nI remember some vague discomfort at these stories (which I loved) even as a partly formed, ten year old atheist at a C of E school. I don’t _think_ it affected me in later life, but of course you don’t know how these things wheedle their way into a turn of phrase, grubby thought or whatever.\n",
+				"date_published": "2020-11-30T17:52:00+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/open-the-door.html"
+			}
+	]
+}
