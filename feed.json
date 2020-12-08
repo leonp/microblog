@@ -7,16 +7,152 @@
 	"items": [
 		
 			{
+				"id": "http://leonp.micro.blog/2020/12/08/david-squires-on.html",
+				
+				"content_html": "<p>David Squires on Millwall and taking a knee. Oof:</p>\n\n<p><a href=\"https://www.theguardian.com/football/ng-interactive/2020/dec/08/david-squires-on-the-booing-of-footballers-taking-a-knee\">www.theguardian.com/football/&hellip;</a></p>\n\n<p>Barney Ronay’s take was excellent too:</p>\n\n<p><a href=\"https://www.theguardian.com/football/2020/dec/07/taking-a-knee-is-a-sign-to-minorities-they-are-welcome-at-football-grounds\">www.theguardian.com/football/&hellip;</a></p>\n",
+				"content_text": "David Squires on Millwall and taking a knee. Oof:\r\n\r\n[www.theguardian.com/football/...](https://www.theguardian.com/football/ng-interactive/2020/dec/08/david-squires-on-the-booing-of-footballers-taking-a-knee)\r\n\r\nBarney Ronay’s take was excellent too:\r\n\r\n[www.theguardian.com/football/...](https://www.theguardian.com/football/2020/dec/07/taking-a-knee-is-a-sign-to-minorities-they-are-welcome-at-football-grounds)\n",
+				"date_published": "2020-12-08T13:44:51+00:00",
+				"url": "https://leonp.micro.blog/2020/12/08/david-squires-on.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/06/would-it-still.html",
+				
+				"content_html": "<p><q>Would it still be useful to read the HTML 3.2 specification—from 1997?</q></p>\n\n<p>Well, it’s quite interesting. Tables were OK for layout according to the spec at one point:</p>\n\n<p>Blog (Web Development, Mostly) · Jens Oliver Meiert, Jens Oliver Meiert: <a href=\"https://meiert.com/en/blog/notes-on-html-32/\">Notes on HTML 3.2</a></p>\n",
+				"content_text": "<q>Would it still be useful to read the HTML 3.2 specification—from 1997?</q>\n\nWell, it’s quite interesting. Tables were OK for layout according to the spec at one point:\n\nBlog (Web Development, Mostly) · Jens Oliver Meiert, Jens Oliver Meiert: [Notes on HTML 3.2](https://meiert.com/en/blog/notes-on-html-32/)\n",
+				"date_published": "2020-12-06T15:08:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/06/would-it-still.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/06/fantastic-deep-dive.html",
+				
+				"content_html": "<p>Fantastic deep dive into getting UI right: It’s about layout, typography and grammar:</p>\n\n<p><a href=\"https://tonsky.me/blog/form-cleanup/\">tonsky.me/blog/form&hellip;</a></p>\n",
+				"content_text": "Fantastic deep dive into getting UI right: It’s about layout, typography and grammar:\n\n[tonsky.me/blog/form...](https://tonsky.me/blog/form-cleanup/)\n",
+				"date_published": "2020-12-06T07:28:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/06/fantastic-deep-dive.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/05/we-should-be.html",
+				
+				"content_html": "<p>We should be borrowing zillions and there is no such thing as a national credit card. But we don’t think that because economics discussion is a part of the news cycle:</p>\n\n<p>Stumbling and Mumbling: <a href=\"https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2020/12/news-versus-emergence.html\">News versus emergence</a></p>\n",
+				"content_text": "We should be borrowing zillions and there is no such thing as a national credit card. But we don’t think that because economics discussion is a part of the news cycle:\n\nStumbling and Mumbling: [News versus emergence](https://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2020/12/news-versus-emergence.html)\n",
+				"date_published": "2020-12-05T13:35:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/05/we-should-be.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/05/im-liking-microblog.html",
+				
+				"content_html": "<p>I’m liking micro.blog a lot. One very nice feature is that you can hide your posts from your own micro.blog by <a href=\"https://help.micro.blog/2019/robots/\">creating a robots.txt</a> file and disallowing all indexing.</p>\n\n<p>As to why you’d <em>want</em> to do this…</p>\n",
+				"content_text": "I’m liking micro.blog a lot. One very nice feature is that you can hide your posts from your own micro.blog by [creating a robots.txt](https://help.micro.blog/2019/robots/) file and disallowing all indexing.\n\nAs to why you’d _want_ to do this…\n",
+				"date_published": "2020-12-05T11:31:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/05/im-liking-microblog.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/05/obviously-this-is.html",
+				
+				"content_html": "<p>Tony Hsieh’s American Tragedy — obviously, this is very sad. But — my god! — the idiocy of how the story’s framed and the lunacy of the world of the super-rich. Who on Earth writes this with a straight face?</p>\n\n<blockquote>\n<p>Hsieh had an addictive personality, and in his 20s, he was addicted to ideas</p>\n</blockquote>\n\n<p><a href=\"https://www.forbes.com/sites/angelauyeung/2020/12/04/tony-hsiehs-american-tragedy-the-self-destructive-last-months-of-the-zappos-visionary/\">www.forbes.com/sites/ang&hellip;</a></p>\n",
+				"content_text": "Tony Hsieh’s American Tragedy — obviously, this is very sad. But — my god! — the idiocy of how the story’s framed and the lunacy of the world of the super-rich. Who on Earth writes this with a straight face?\n\n> Hsieh had an addictive personality, and in his 20s, he was addicted to ideas\n\n[www.forbes.com/sites/ang...](https://www.forbes.com/sites/angelauyeung/2020/12/04/tony-hsiehs-american-tragedy-the-self-destructive-last-months-of-the-zappos-visionary/)\n",
+				"date_published": "2020-12-05T09:08:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/05/obviously-this-is.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/04/wp-to-static.html",
+				
+				"content_html": "<p>Migrate from WP to static (11ty) in this case:  <a href=\"https://smashingmagazine.com/2020/12/wordpress-eleventy-static-site-generator/\">smashingmagazine.com</a></p>\n",
+				"content_text": "Migrate from WP to static (11ty) in this case:  [smashingmagazine.com](https://smashingmagazine.com/2020/12/wordpress-eleventy-static-site-generator/)\n",
+				"date_published": "2020-12-04T12:46:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/04/wp-to-static.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/03/why-web-scraping.html",
+				
+				"content_html": "<p>Why web scraping is vital to democracy: <a href=\"https://themarkup.org/news/2020/12/03/why-web-scraping-is-vital-to-democracy\">themarkup.org</a></p>\n",
+				"content_text": "Why web scraping is vital to democracy: [themarkup.org](https://themarkup.org/news/2020/12/03/why-web-scraping-is-vital-to-democracy)\n",
+				"date_published": "2020-12-03T14:52:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/03/why-web-scraping.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/03/commonmark-formal-markdown.html",
+				
+				"content_html": "<p>CommonMark formal markdown spec:  <a href=\"https://smashingmagazine.com/2020/12/commonmark-formal-specification-markdown/\">smashingmagazine.com</a></p>\n",
+				"content_text": "CommonMark formal markdown spec:  [smashingmagazine.com](https://smashingmagazine.com/2020/12/commonmark-formal-specification-markdown/)\n",
+				"date_published": "2020-12-03T12:31:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/03/commonmark-formal-markdown.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/02/we-pay-for.html",
+				
+				"content_html": "<p>Masterpieces from Buckingham Palace. We pay for this. It’s ours:  <a href=\"https://www.theguardian.com/artanddesign/2020/dec/02/queens-caravaggio-masterpieces-buckingham-palace-review\">www.theguardian.com</a></p>\n\n<blockquote>\n<p>The Queen&rsquo;s found a Caravaggio in her loft! Masterpieces from Buckingham Palace – review | Art | The Guardian</p>\n</blockquote>\n",
+				"content_text": "Masterpieces from Buckingham Palace. We pay for this. It’s ours:  [www.theguardian.com](https://www.theguardian.com/artanddesign/2020/dec/02/queens-caravaggio-masterpieces-buckingham-palace-review)\n\n> The Queen's found a Caravaggio in her loft! Masterpieces from Buckingham Palace – review | Art | The Guardian\n",
+				"date_published": "2020-12-02T19:11:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/02/we-pay-for.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/01/another-reason-to.html",
+				
+				"content_html": "<p>Create an eco-friendly website — another reason to <a href=\"https://www.leonpaternoster.com/posts/static/\">keep it static as much as possible</a> – your website won’t cause as much harm to the environment (although no website’s an even better option).</p>\n\n<blockquote>\n<p>From an environmental perspective, a well-built static site is far kinder to the end device it is rendered on. The server has to do far less work to serve up your average static site. Devices with rechargeable batteries (laptops, tablets, smartphones, etc.) will use more energy to render resource-intensive websites, as they require more work to stitch everything together. Less energy expenditure means less frequent recharge times.</p>\n</blockquote>\n\n<p><a href=\"https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website\">thoughtbot.com/blog/so-y&hellip;</a></p>\n",
+				"content_text": "Create an eco-friendly website — another reason to [keep it static as much as possible](https://www.leonpaternoster.com/posts/static/) – your website won’t cause as much harm to the environment (although no website’s an even better option).\n\n> From an environmental perspective, a well-built static site is far kinder to the end device it is rendered on. The server has to do far less work to serve up your average static site. Devices with rechargeable batteries (laptops, tablets, smartphones, etc.) will use more energy to render resource-intensive websites, as they require more work to stitch everything together. Less energy expenditure means less frequent recharge times.\n\n[thoughtbot.com/blog/so-y...](https://thoughtbot.com/blog/so-you-wanna-create-an-eco-friendly-website)\n",
+				"date_published": "2020-12-01T19:48:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/01/another-reason-to.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/01/to-explore-there.html",
+				
+				"content_html": "<p>Best new weird Britain to explore.</p>\n\n<p><a href=\"https://thequietus.com/articles/29304-best-of-new-weird-britain-2020\">thequietus.com/articles/&hellip;</a></p>\n",
+				"content_text": "Best new weird Britain to explore.\n\n[thequietus.com/articles/...](https://thequietus.com/articles/29304-best-of-new-weird-britain-2020)\n",
+				"date_published": "2020-12-01T19:40:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/01/to-explore-there.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/01/this-is-right.html",
+				
+				"content_html": "<p>ITFC is a ghost club — #itfc’s plight:  <a href=\"https://www.theguardian.com/football/2020/dec/01/paul-lambert-battles-for-ipswich-future-at-a-ghost-club-in-rapid-decline\">www.theguardian.com</a></p>\n\n<blockquote>\n<p>Paul Lambert battles for Ipswich future at a ghost club in rapid decline | Nick Ames | Football | The Guardian</p>\n</blockquote>\n",
+				"content_text": "ITFC is a ghost club — #itfc’s plight:  [www.theguardian.com](https://www.theguardian.com/football/2020/dec/01/paul-lambert-battles-for-ipswich-future-at-a-ghost-club-in-rapid-decline)\n\n> Paul Lambert battles for Ipswich future at a ghost club in rapid decline | Nick Ames | Football | The Guardian\n",
+				"date_published": "2020-12-01T12:56:00+00:00",
+				"url": "https://leonp.micro.blog/2020/12/01/this-is-right.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/dog-dog.html",
+				
+				"content_html": "<p>Saving Amelia:</p>\n\n<p><img src=\"uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Saving Amelia:\n\n<img src=\"uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-30T20:58:00+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/dog-dog.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/204126.html",
+				
+				"content_html": "<p>Like this album cover from <a href=\"https://thequietus.com/articles/29302-the-quietus-top-100-albums-of-2020-norman-records\">thequietus.com/articles/&hellip;</a></p>\n\n<p><img src=\"uploads/2020/0c5ccf5dce.jpg\" width=\"550\" height=\"420\" alt=\"\" /></p>\n",
+				"content_text": "Like this album cover from [thequietus.com/articles/...](https://thequietus.com/articles/29302-the-quietus-top-100-albums-of-2020-norman-records)\n\n\n<img src=\"uploads/2020/0c5ccf5dce.jpg\" width=\"550\" height=\"420\" alt=\"\" />\n",
+				"date_published": "2020-11-30T20:41:00+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/204126.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/pastoe-armchair-to.html",
+				
+				"content_html": "<p>Pastoe armchair (to go with the grey and white walls, chair and table).</p>\n\n<p><img src=\"uploads/2020/2ff290f710.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Pastoe armchair (to go with the grey and white walls, chair and table).\n\n<img src=\"uploads/2020/2ff290f710.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2020-11-30T20:26:00+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/pastoe-armchair-to.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/11/30/i-have-an.html",
+				
+				"content_html": "<p>I have an absurdly complicated microblog/website set up, but it’s all possible with microblog.</p>\n\n<ol>\n<li>Post to microblog</li>\n<li>When My site builds, grab all the posts from the microblog json feed and put them in a Jekyll data object</li>\n<li>Create posts from each item in the data object</li>\n<li><a href=\"https://www.thisdaysportion.com/microblog\">Publish each microblog post on my site</a></li>\n<li>Create a <code>robots.txt</code> file in a custom microblog theme so search engines don’t index it</li>\n</ol>\n\n<p>And done.</p>\n",
+				"content_text": "I have an absurdly complicated microblog/website set up, but it’s all possible with microblog.\n\n1. Post to microblog\n2. When My site builds, grab all the posts from the microblog json feed and put them in a Jekyll data object\n3. Create posts from each item in the data object\n4. [Publish each microblog post on my site](https://www.thisdaysportion.com/microblog)\n5. Create a `robots.txt` file in a custom microblog theme so search engines don’t index it\n\nAnd done.\n",
+				"date_published": "2020-11-30T18:51:00+00:00",
+				"url": "https://leonp.micro.blog/2020/11/30/i-have-an.html"
+			},
+			{
 				"id": "http://leonp.micro.blog/2020/11/30/after-about-months.html",
 				
-				"content_html": "<p>After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with:</p>\n\n<p><img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with: \n\n<img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-11-30T18:17:04+00:00",
+				"content_html": "<p>WFH — After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with:</p>\n\n<p><img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "WFH — After about 8 months of working from home, numerous keyboards, monitors, leads and whatever, this is what I ended up with: \n\n<img src=\"uploads/2020/5f2462472b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-11-30T18:17:00+00:00",
 				"url": "https://leonp.micro.blog/2020/11/30/after-about-months.html"
 			},
 			{
 				"id": "http://leonp.micro.blog/2020/11/30/open-the-door.html",
-				"title": "Open the Door to the Political World of Narnia",
+				
 				"content_html": "<p><a href=\"https://longreads.com/2020/11/30/open-the-door-to-the-political-world-of-narnia/\">Open the Door to the Political World of Narnia</a></p>\n\n<p>I remember some vague discomfort at these stories (which I loved) even as a partly formed, ten year old atheist at a C of E school. I don’t <em>think</em> it affected me in later life, but of course you don’t know how these things wheedle their way into a turn of phrase, grubby thought or whatever.</p>\n",
 				"content_text": "[Open the Door to the Political World of Narnia](https://longreads.com/2020/11/30/open-the-door-to-the-political-world-of-narnia/)\n\nI remember some vague discomfort at these stories (which I loved) even as a partly formed, ten year old atheist at a C of E school. I don’t _think_ it affected me in later life, but of course you don’t know how these things wheedle their way into a turn of phrase, grubby thought or whatever.\n",
 				"date_published": "2020-11-30T17:52:00+00:00",
