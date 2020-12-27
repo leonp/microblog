@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://leonp.micro.blog/2020/12/27/this-is-a.html",
+				
+				"content_html": "<p>This is a really good intro to static site generators (with a few specific warnings about Hugo). They’re not really for beginners and aren’t simple:</p>\n\n<p><a href=\"https://fvsch.com/static-site-generators\">fvsch.com/static-si&hellip;</a></p>\n",
+				"content_text": "This is a really good intro to static site generators (with a few specific warnings about Hugo). They’re not really for beginners and aren’t simple:\n\n[fvsch.com/static-si...](https://fvsch.com/static-site-generators)\n",
+				"date_published": "2020-12-27T20:01:16+00:00",
+				"url": "https://leonp.micro.blog/2020/12/27/this-is-a.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/18/drawing-and-storing.html",
+				
+				"content_html": "<p>Drawing and storing the sun:</p>\n\n<p><a href=\"https://www.bbcelite.com/deep_dives/drawing_the_sun.html\">https://www.bbcelite.com/deep_dives/drawing_the_sun.html</a></p>\n\n<p>(in Elite, this is an awe inspiring website)</p>\n",
+				"content_text": "Drawing and storing the sun:\n\nhttps://www.bbcelite.com/deep_dives/drawing_the_sun.html\n\n(in Elite, this is an awe inspiring website)\n",
+				"date_published": "2020-12-18T20:09:42+00:00",
+				"url": "https://leonp.micro.blog/2020/12/18/drawing-and-storing.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/16/machine.html",
+				
+				"content_html": "<p>machine</p>\n\n<p><img src=\"uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
+				"content_text": "machine\n\n\n<img src=\"uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" />\n",
+				"date_published": "2020-12-16T21:42:10+00:00",
+				"url": "https://leonp.micro.blog/2020/12/16/machine.html"
+			},
+			{
+				"id": "http://leonp.micro.blog/2020/12/16/algorithms-in-themarkuporg.html",
+				
+				"content_html": "<p>Algorithms in 2020:  <a href=\"https://themarkup.org/2020-in-review/2020/12/15/algorithms-bias-racism-surveillance\">themarkup.org</a></p>\n",
+				"content_text": "Algorithms in 2020:  [themarkup.org](https://themarkup.org/2020-in-review/2020/12/15/algorithms-bias-racism-surveillance)\n",
+				"date_published": "2020-12-16T18:45:10+00:00",
+				"url": "https://leonp.micro.blog/2020/12/16/algorithms-in-themarkuporg.html"
+			},
+			{
 				"id": "http://leonp.micro.blog/2020/12/16/worrying-trend-im.html",
 				
 				"content_html": "<p>Worrying trend I’m noticing at work. Lots of orgs and people who should know better starting to publish jpgs and PDFs instead of web pages, or asking for interactive PDFs instead of, you know, a form.</p>\n\n<p>We fought wars for this 😞</p>\n",
