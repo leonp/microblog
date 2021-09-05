@@ -73,8 +73,8 @@
 			{
 				"id": "http://leonp.micro.blog/2020/12/28/ziggy.html",
 				
-				"content_html": "<p>#ziggy</p>\n\n<p><img src=\"https://leonp.micro.blog/uploads/2020/04e7591e9e.jpg\" width=\"600\" height=\"360\" alt=\"\" /></p>\n",
-				"content_text": "#ziggy \n\n<img src=\"https://leonp.micro.blog/uploads/2020/04e7591e9e.jpg\" width=\"600\" height=\"360\" alt=\"\" />\n",
+				"content_html": "<p>#ziggy</p>\n\n<p><img src=\"uploads/2020/04e7591e9e.jpg\" width=\"600\" height=\"360\" alt=\"\" /></p>\n",
+				"content_text": "#ziggy \n\n<img src=\"uploads/2020/04e7591e9e.jpg\" width=\"600\" height=\"360\" alt=\"\" />\n",
 				"date_published": "2020-12-28T16:37:58+01:00",
 				"url": "https://leonp.micro.blog/2020/12/28/ziggy.html"
 			},
@@ -97,8 +97,8 @@
 			{
 				"id": "http://leonp.micro.blog/2020/12/16/machine.html",
 				
-				"content_html": "<p>machine</p>\n\n<p><img src=\"https://leonp.micro.blog/uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
-				"content_text": "machine\n\n\n<img src=\"https://leonp.micro.blog/uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" />\n",
+				"content_html": "<p>machine</p>\n\n<p><img src=\"uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" /></p>\n",
+				"content_text": "machine\n\n\n<img src=\"uploads/2020/3649152f54.jpg\" width=\"600\" height=\"297\" alt=\"\" />\n",
 				"date_published": "2020-12-16T22:42:10+01:00",
 				"url": "https://leonp.micro.blog/2020/12/16/machine.html"
 			},
@@ -161,8 +161,8 @@
 			{
 				"id": "http://leonp.micro.blog/2020/12/09/dog-sleeping-on.html",
 				
-				"content_html": "<p>Dog sleeping on my leg:</p>\n\n<p><img src=\"https://leonp.micro.blog/uploads/2020/c400e5101c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Dog sleeping on my leg: \n\n<img src=\"https://leonp.micro.blog/uploads/2020/c400e5101c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Dog sleeping on my leg:</p>\n\n<p><img src=\"uploads/2020/c400e5101c.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Dog sleeping on my leg: \n\n<img src=\"uploads/2020/c400e5101c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-09T20:37:42+01:00",
 				"url": "https://leonp.micro.blog/2020/12/09/dog-sleeping-on.html"
 			},
@@ -177,8 +177,8 @@
 			{
 				"id": "http://leonp.micro.blog/2020/12/08/from-rediscovering-vkhutemas.html",
 				
-				"content_html": "<p>From <a href=\"https://jacobinmag.com/2020/12/vkhutemas-soviet-union-revolutionary-art-school/\">Rediscovering Vkhutemas, the Soviet Union’s Revolutionary Art School</a></p>\n\n<p><img src=\"https://leonp.micro.blog/uploads/2020/bc113be110.jpg\" width=\"600\" height=\"386\" alt=\"2 vkhutemas Soviet era posters.\" /></p>\n",
-				"content_text": "From [Rediscovering Vkhutemas, the Soviet Union’s Revolutionary Art School](https://jacobinmag.com/2020/12/vkhutemas-soviet-union-revolutionary-art-school/)\n\n<img src=\"https://leonp.micro.blog/uploads/2020/bc113be110.jpg\" width=\"600\" height=\"386\" alt=\"2 vkhutemas Soviet era posters.\" />\n",
+				"content_html": "<p>From <a href=\"https://jacobinmag.com/2020/12/vkhutemas-soviet-union-revolutionary-art-school/\">Rediscovering Vkhutemas, the Soviet Union’s Revolutionary Art School</a></p>\n\n<p><img src=\"uploads/2020/bc113be110.jpg\" width=\"600\" height=\"386\" alt=\"2 vkhutemas Soviet era posters.\" /></p>\n",
+				"content_text": "From [Rediscovering Vkhutemas, the Soviet Union’s Revolutionary Art School](https://jacobinmag.com/2020/12/vkhutemas-soviet-union-revolutionary-art-school/)\n\n<img src=\"uploads/2020/bc113be110.jpg\" width=\"600\" height=\"386\" alt=\"2 vkhutemas Soviet era posters.\" />\n",
 				"date_published": "2020-12-08T20:53:43+01:00",
 				"url": "https://leonp.micro.blog/2020/12/08/from-rediscovering-vkhutemas.html"
 			},
@@ -297,8 +297,8 @@
 			{
 				"id": "http://leonp.micro.blog/2020/11/30/dog-dog.html",
 				
-				"content_html": "<p>Saving Amelia:</p>\n\n<p><img src=\"https://leonp.micro.blog/uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Saving Amelia:\n\n<img src=\"https://leonp.micro.blog/uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Saving Amelia:</p>\n\n<p><img src=\"uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Saving Amelia:\n\n<img src=\"uploads/2020/a14ab18fa8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-30T21:58:00+01:00",
 				"url": "https://leonp.micro.blog/2020/11/30/dog-dog.html"
 			},
